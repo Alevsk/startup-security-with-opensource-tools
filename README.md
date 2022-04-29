@@ -64,6 +64,7 @@ If you think I should add a new tool to the list you can open a github issue or 
 - [Clair scanner](https://github.com/arminc/clair-scanner)
 - [Bandit](https://github.com/PyCQA/bandit) (code analyzer for python)
 - [Brakeman](https://github.com/presidentbeef/brakeman) (code analyzer for Ruby on rails applications)
+- [Semgrep](https://semgrep.dev/) (Static analysis at ludicrous speed)
 
 ## Dynamic analysis tools
 
