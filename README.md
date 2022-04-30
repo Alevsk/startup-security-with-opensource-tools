@@ -1,4 +1,4 @@
-# Compilation of open-source security tools & platforms for your startup
+# Compilation of open-source security tools & platforms for your Startup
 
 This compilation of open-source tools aim to provide resources you can use for some of the step of the secure development life cycle of your organization, ie:
 
