@@ -1,6 +1,6 @@
 # Compilation of open-source security tools & platforms for your startup
 
-This compilation of open-source tools aim to provide resources you can use for some of the step of the secure development life cycle of your organisation, ie:
+This compilation of open-source tools aim to provide resources you can use for some of the step of the secure development life cycle of your organization, ie:
 
 1. Security Training
 2. Security Architecture Review
@@ -15,7 +15,7 @@ If you think I should add a new tool to the list you can open a github issue or 
 
 # Resources
 
-## User managemen 
+## User management
 
 - [Keycloak](https://github.com/keycloak/keycloak)
 
