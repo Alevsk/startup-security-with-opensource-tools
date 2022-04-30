@@ -5,7 +5,7 @@ This compilation of open-source tools aim to provide resources you can use for s
 1. Security Training
 2. Security Architecture Review
 3. Security Requirements
-4. Treath Modeling
+4. Threat Modeling
 5. Static Analysis
 6. OpenSource Analysis
 7. Dynamic Analysis
