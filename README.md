@@ -1,11 +1,11 @@
-# Compilation of open-source security tools & platforms for your startup
+# Compilation of open-source security tools & platforms for your Startup
 
-This compilation of open-source tools aim to provide resources you can use for some of the step of the secure development life cycle of your organisation, ie:
+This compilation of open-source tools aim to provide resources you can use for some of the step of the secure development life cycle of your organization, ie:
 
 1. Security Training
 2. Security Architecture Review
 3. Security Requirements
-4. Treath Modeling
+4. Threat Modeling
 5. Static Analysis
 6. OpenSource Analysis
 7. Dynamic Analysis
@@ -15,7 +15,7 @@ If you think I should add a new tool to the list you can open a github issue or 
 
 # Resources
 
-## User managemen 
+## User management
 
 - [Keycloak](https://github.com/keycloak/keycloak)
 
@@ -64,6 +64,7 @@ If you think I should add a new tool to the list you can open a github issue or 
 - [Clair scanner](https://github.com/arminc/clair-scanner)
 - [Bandit](https://github.com/PyCQA/bandit) (Code analyzer for python)
 - [Brakeman](https://github.com/presidentbeef/brakeman) (Code analyzer for Ruby on rails applications)
+- [Semgrep](https://semgrep.dev/) (Static analysis at ludicrous speed)
 
 ## Dynamic analysis tools
 
@@ -78,3 +79,4 @@ If you think I should add a new tool to the list you can open a github issue or 
 ## Misc
 
 - [Pi-Hole](https://pi-hole.net/)
+- [Podman](https://github.com/containers/podman)
