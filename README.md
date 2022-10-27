@@ -62,8 +62,8 @@ If you think I should add a new tool to the list you can open a github issue or 
 - [Snyk](https://github.com/snyk/snyk)
 - [Dockerscan](https://github.com/cr0hn/dockerscan)
 - [Clair scanner](https://github.com/arminc/clair-scanner)
-- [Bandit](https://github.com/PyCQA/bandit) (code analyzer for python)
-- [Brakeman](https://github.com/presidentbeef/brakeman) (code analyzer for Ruby on rails applications)
+- [Bandit](https://github.com/PyCQA/bandit) (Code analyzer for python)
+- [Brakeman](https://github.com/presidentbeef/brakeman) (Code analyzer for Ruby on rails applications)
 
 ## Dynamic analysis tools
 
@@ -72,6 +72,7 @@ If you think I should add a new tool to the list you can open a github issue or 
 - [Nikto2](https://github.com/sullo/nikto) (Web scanner)
 - [OWASP ZAP](https://github.com/zaproxy/zaproxy)
 - [Nuclei](https://github.com/projectdiscovery/nuclei)
+- [testssl.sh](testssl.sh) (Dynamic analysis for TLS configuration)
 
 
 ## Misc
