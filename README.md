@@ -21,7 +21,8 @@ If you think I should add a new tool to the list you can open a github issue or 
 
 ## Secret management
 
-- [HashiCorp Vault](https://github.com/hashicorp/vault)
+- [HashiCorp Vault](https://github.com/hashicorp/vault) (Key Management Service)
+- [Passbolt](https://www.passbolt.com/) (Password manager)
 
 ## IDS, IPS, Firewalls and Host/Network monitoring
 
