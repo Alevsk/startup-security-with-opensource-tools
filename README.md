@@ -22,6 +22,7 @@ If you think I should add a new tool to the list you can open a github issue or 
 ## Authorization service
 
 - [Permify](https://github.com/Permify/permify)
+- [Teleport](https://goteleport.com/)
 
 ## Secret management
 
