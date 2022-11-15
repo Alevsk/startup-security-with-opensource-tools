@@ -86,3 +86,4 @@ If you think I should add a new tool to the list you can open a github issue or 
 
 - [Pi-Hole](https://pi-hole.net/)
 - [Podman](https://github.com/containers/podman)
+- [Homer](https://github.com/bastienwirtz/homer) (Build beautiful dashboards)
